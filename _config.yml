@@ -1,6 +1,6 @@
 title: Antony Addinall
 logo: images/Data_Science.png
 description: Who/What/Where/When
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme 
