@@ -20,5 +20,6 @@ Explore my diverse range of projects, each offering unique insights and showcasi
 - <span style="color: #287dba">Cloud Migration:</span> Led the migration of historic data to AWS infrastructure, collaborating with suppliers to ensure compliance and security standards were met.
 - <span style="color: #287dba">Data Visualization:</span> Created interactive dashboards showcasing project progress and interim data dictionaries, empowering stakeholders with actionable insights.
 - <span style="color: #287dba">Enterprise Datasets:</span> Analyzed enterprise datasets like complaints and telephony data, uncovering insights to drive organizational success.
+- 
 ## <span style="color: #287dba">Call to Action</span>
 Ready to collaborate or delve deeper into my portfolio? Reach out to me—I'm eager to explore new opportunities and forge meaningful connections in the world of data science.
