@@ -15,9 +15,11 @@ With over 15 years in the insurance industry, I've honed my skills in navigating
 
 ## <span style="color: #287dba">Projects</span>
 Explore my diverse range of projects, each offering unique insights and showcasing my skills:
-- <span style="color: #287dba">**Ingestion Pipelines:**</span> Learn how I engineer robust data pipelines, integrating APIs, ODBC connections, and cloud storage solutions to streamline data ingestion and analysis.
-- <span style="color: #287dba">**Data Visualization:**</span> Immerse yourself in captivating visualizations that illuminate key trends and patterns, empowering stakeholders to make informed decisions.
-- <span style="color: #287dba">**Enterprise Datasets:**</span> Dive into projects centered around enterprise datasets such as complaints and telephony data, uncovering actionable insights that drive organizational success.
-
+- <span style="color: #287dba">Audit Database:</span> Developed an audit tracking database in Microsoft Access, enabling easy entry of supplier audits, issue tracking, and report generation.
+- <span style="color: #287dba">Ingestion Pipelines:</span> Built robust data pipelines integrating APIs, ODBC connections, and cloud storage, resulting in efficient data ingestion and analytics-ready 'mart' layers.
+- <span style="color: #287dba">Cloud Migration:</span> Led the migration of historic data to AWS infrastructure, collaborating with suppliers to ensure compliance and security standards were met.
+- <span style="color: #287dba">Data Visualization:</span> Created interactive dashboards showcasing project progress and interim data dictionaries, empowering stakeholders with actionable insights.
+- <span style="color: #287dba">Enterprise Datasets:</span> Analyzed enterprise datasets like complaints and telephony data, uncovering insights to drive organizational success.
+- 
 ## <span style="color: #287dba">Call to Action</span>
 Ready to collaborate or delve deeper into my portfolio? Reach out to me—I'm eager to explore new opportunities and forge meaningful connections in the world of data science.
